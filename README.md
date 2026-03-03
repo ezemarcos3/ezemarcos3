@@ -38,8 +38,8 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="https://[//raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp](https://imgs.search.brave.com/voglBwTiRgolDtTcAx-xpVGyG_uVL2_-9s3hurmoKM8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wb3Np/dGl2ZWl0LnRlY2gv/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MDUvYm90bWFrZXIt/aW1nLWxvZ28uanBn)"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
