@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Marcos, Diego Ezequiel  </h1> 
 
 <p align="left">
-<a href="www.linkedin.com/in/diego-ezequiel-marcos-7691aa251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+<a href="https://www.linkedin.com/in/diego-ezequiel-marcos-7691aa251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
 <a href = "mailto:ezequielmarcos24@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""  /></a>
   </p>
 <br>
