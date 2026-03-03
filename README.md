@@ -9,15 +9,15 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 ESTUDIANTE EN INGENIERÍA EN INFORMÁTICA
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+💻 Apasionado por el desarrollo de software y la creación de soluciones eficientes. 
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+📚 En constante aprendizaje, combinando teoría, práctica y experiencia real.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+🚀 Interesado en full-stack, arquitectura de sistemas y construcción de proyectos sólidos, IA, automatizaciones, tecnología IT y mucho más...
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **ezequielmarcos24@gmail.com**
 <!--Intro end-->
   </p>
 <br>
