@@ -59,8 +59,8 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="https://scontent.fres2-2.fna.fbcdn.net/v/t39.30808-6/644285317_1751458442928980_4819923651789342780_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=lymucAvdznAQ7kNvwFiDBb4&_nc_oc=Adl-dYHf9VBkQoaenJFvVWTeDeX0C0eWB-0MO-doAxgHHC4i3bEHDolLd1l4tdSGpdg&_nc_zt=23&_nc_ht=scontent.fres2-2.fna&_nc_gid=PJbmVy0UJPtKiOoZMZ38aA&_nc_ss=8&oh=00_AfxBa2Mg4blcDLBkKccylsB5Oej4VyFZ83l1qZwbQYw_Eg&oe=69AD31C8"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
