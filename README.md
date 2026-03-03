@@ -48,8 +48,8 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="https://imgs.search.brave.com/d5rc2DOCpZ3uGGf79RwhMK-Pm-RdmHR_voIVwG2LKeg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2x1YmVsdGVycml0/b3Jpby5jb20uYXIv/aW1nL2NvbWVyY2lv/cy9hbnl3YXlfaW5z/dW1vcy9maWNoYXMv/YW55d2F5X2luc3Vt/b3NfMi5qcGc"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
